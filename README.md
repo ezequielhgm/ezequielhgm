@@ -24,17 +24,17 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:ezequielhgmuller@gmail.com">
-    📧 ezequielhgmuller@gmail.com
+  <a href="mailto:ezequielhgm@gmail.com">
+    📧 ezequielhgm@gmail.com
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/ezequielhgmuller" target="_blank">
+  <a href="https://www.linkedin.com/in/ezequielhgm" target="_blank">
     💼 LinkedIn
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/ezequielhgmuller/" target="_blank">
+  <a href="https://www.instagram.com/ezequielhgm/" target="_blank">
     📸 Instagram
   </a>
 </p>
