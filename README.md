@@ -38,14 +38,3 @@
     📸 Instagram
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
- <img 
-  height="170em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ezequielhgm&layout=compact&theme=tokyonight"
-/>
-</p>
