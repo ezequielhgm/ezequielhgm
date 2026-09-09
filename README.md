@@ -7,7 +7,9 @@
 - 🎓 Graduating in Computer Science at Universidade Regional Integrada do Alto Uruguai e das Missões - URI Campus Erechim.  
 - 🚀 Interested in Java, APIs, databases, cloud computing and software architecture  
 
- <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ezequielhgm&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ezequielhgm&layout=compact&theme=tokyonight&hide_border=true" />
+ <p>
 
 ## 🛠️ Stack
 
