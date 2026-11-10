@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Developer with focus on backend.  
-- 🎓 Student at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS Campus Erechim.
+- 🎓 Graduated as an IT Technician from Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – IFRS Campus Erechim.
 - 🎓 Graduating in Computer Science at Universidade Regional Integrada do Alto Uruguai e das Missões - URI Campus Erechim.  
 - 🚀 Interested in Java, APIs, databases, cloud computing and software architecture  
 
